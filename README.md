@@ -5,6 +5,7 @@ LeetCode 题库题目和题解（包含代码）。
 **贪心**
 
 1. [x] Problem 11
+2. [x] Problem 42
 
 **搜索**
 
