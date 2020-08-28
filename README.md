@@ -2,6 +2,10 @@
 
 LeetCode 题库题目和题解（包含代码）。
 
+模拟
+
+1. [x] Problem 657
+
 **贪心**
 
 1. [x] Problem 11
