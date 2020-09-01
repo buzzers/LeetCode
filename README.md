@@ -26,3 +26,4 @@ LeetCode 题库题目和题解（包含代码）。
 2. [x] Problem 10
 3. [x] Problem 22
 4. [x] Problem 44
+5. [x] Problem 486
