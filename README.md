@@ -17,8 +17,9 @@ LeetCode 题库题目和题解（包含代码）。
 **搜索**
 
 1. [x] Problem 17
-2. [x] Problem 332
-3. [x] Problem 841
+2. [x] Problem 51
+3. [x] Problem 332
+4. [x] Problem 841
 
 **动态规划**
 
