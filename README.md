@@ -23,6 +23,10 @@ LeetCode 题库题目和题解（包含代码）。
 4. [x] Problem 332
 5. [x] Problem 841
 
+**堆**
+
+1. [x] Problem 347
+
 **动态规划**
 
 1. [x] Problem 5
