@@ -23,10 +23,11 @@ LeetCode 题库题目和题解（包含代码）。
 
 1. [x] Problem 17
 2. [x] Problem 39
-3. [x] Problem 51
-4. [x] Problem 107
-5. [x] Problem 332
-6. [x] Problem 841
+3. [x] Problem 40
+4. [x] Problem 51
+5. [x] Problem 107
+6. [x] Problem 332
+7. [x] Problem 841
 
 **堆**
 
