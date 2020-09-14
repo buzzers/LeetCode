@@ -9,27 +9,27 @@ LeetCode 题库题目和题解（包含代码）。
 **模拟**
 
 1. [x] Problem 557
-2. [x] Problem 657
+1. [x] Problem 657
 
 **贪心**
 
 1. [x] Problem 11
-2. [x] Problem 42
-3. [x] Problem 45
-3. [x] Problem 60
-4. [x] Problem 214
+1. [x] Problem 42
+1. [x] Problem 45
+1. [x] Problem 60
+1. [x] Problem 214
 
 **搜索**
 
 1. [x] Problem 17
-2. [x] Problem 39
-3. [x] Problem 40
-4. [x] Problem 51
-5. [x] Problem 79
-6. [x] Problem 107
-7. [x] Problem 216
-8. [x] Problem 332
-9. [x] Problem 841
+1. [x] Problem 39
+1. [x] Problem 40
+1. [x] Problem 51
+1. [x] Problem 79
+1. [x] Problem 107
+1. [x] Problem 216
+1. [x] Problem 332
+1. [x] Problem 841
 
 **堆**
 
@@ -38,10 +38,10 @@ LeetCode 题库题目和题解（包含代码）。
 **动态规划**
 
 1. [x] Problem 5
-2. [x] Problem 10
-3. [x] Problem 22
-4. [x] Problem 44
-5. [x] Problem 486
+1. [x] Problem 10
+1. [x] Problem 22
+1. [x] Problem 44
+1. [x] Problem 486
 
 **状态机**
 
@@ -49,5 +49,6 @@ LeetCode 题库题目和题解（包含代码）。
 
 **二叉树**
 
+1. [x] Problem 94
 1. [x] Problem 257
-2. [x] Problem 637
+1. [x] Problem 637
