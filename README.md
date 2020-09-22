@@ -44,3 +44,4 @@ LeetCode 题库题目和题解（包含代码）。
 1. [x] Problem 51 N 皇后
 1. [x] Problem 214 最短回文串
 1. [x] Problem 685 冗余连接 II
+1. [x] Problem 968 监控二叉树
