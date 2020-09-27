@@ -6,6 +6,7 @@ LeetCode 题库题目和题解（包含代码）。
 
 1. [x] Problem 107 二叉树的层次遍历 II
 1. [x] Problem 226 翻转二叉树
+1. [x] Problem 235 二叉搜索树的最近公共祖先
 1. [x] Problem 257 二叉树的所有路径
 1. [x] Problem 404 左叶子之和
 1. [x] Problem 501 二叉搜索树中的众数
