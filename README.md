@@ -41,6 +41,7 @@ LeetCode 题库题目和题解（包含代码）。
 1. [x] Problem 701 二叉搜索树中的插入操作
 1. [x] Problem 841 钥匙和房间
 1. [x] Problem Offer 20 表示数值的字符串
+1. [x] Problem LCP 19 秋叶收藏集
 
 **困难**
 
