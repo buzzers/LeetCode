@@ -14,6 +14,7 @@ LeetCode 题库题目和题解（包含代码）。
 1. [x] Problem 557 反转字符串中的单词 III
 1. [x] Problem 637 二叉树的层平均值
 1. [x] Problem 657 机器人能否返回原点
+1. [x] Problem 771 宝石与石头
 
 **中等**
 
