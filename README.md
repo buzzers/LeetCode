@@ -4,6 +4,7 @@ LeetCode 题库题目和题解（包含代码）。
 
 **简单**
 
+1. [x] Problem 1 两数之和
 1. [x] Problem 107 二叉树的层次遍历 II
 1. [x] Problem 226 翻转二叉树
 1. [x] Problem 235 二叉搜索树的最近公共祖先
@@ -18,9 +19,11 @@ LeetCode 题库题目和题解（包含代码）。
 
 **中等**
 
+1. [x] Problem 2 两数相加
 1. [x] Problem 5 最长回文子串
 1. [x] Problem 11 盛最多水的容器
 1. [x] Problem 17 电话号码的字母组合
+1. [x] Problem 18 四数之和
 1. [x] Problem 22 括号生成
 1. [x] Problem 39 组合总和
 1. [x] Problem 40 组合总和 II
