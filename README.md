@@ -25,6 +25,7 @@ LeetCode 题库题目和题解（包含代码）。
 1. [x] Problem 17 电话号码的字母组合
 1. [x] Problem 18 四数之和
 1. [x] Problem 22 括号生成
+1. [x] Problem 24 两两交换链表中的节点
 1. [x] Problem 39 组合总和
 1. [x] Problem 40 组合总和 II
 1. [x] Problem 47 全排列 II
