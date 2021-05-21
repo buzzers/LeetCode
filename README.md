@@ -45,8 +45,10 @@ LeetCode 题库题目和题解（包含代码）。
 1. [x] Problem 617 合并二叉树
 1. [x] Problem 701 二叉搜索树中的插入操作
 1. [x] Problem 841 钥匙和房间
-1. [x] Problem Offer 20 表示数值的字符串
-1. [x] Problem LCP 19 秋叶收藏集
+2. [x] Problem 1035 不相交的线
+3. [x] Problem 1143 最长公共子序列
+4. [x] Problem Offer 20 表示数值的字符串
+5. [x] Problem LCP 19 秋叶收藏集
 
 **困难**
 
